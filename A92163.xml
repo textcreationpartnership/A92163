@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The ranters recantation; and their sermon delivered at a meeting on Tuesday last, in White-Chappel, being the 17 of this instant December. With their resolution, advice, and proposals; the manner of the vanishing away of one of their false gods in a flame of fire; a more further discovery of their dangerous opinions, lives, and actions; their blasphemous decree, and detestable commandements. Likewise, the apprehending of some of them; their tryal, and sentence; their speech and confessions at the place of execution; their strange and blasphemous cries upon the ladder; and the executing two Justices of Peace: recited as a warning-piece to the English nation.</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92163</idno><idno type="EEBO-CITATION">99865540</idno>
+  <idno type="VID">117784</idno>
+  <idno type="EEBO-PROQUEST">2264201480</idno>
+  
+            <idno type="STC">Wing R252</idno>
+            <idno type="STC">Thomason E620_10</idno>
+            <idno type="STC">ESTC R206378</idno>
+            <idno type="STC">ESTC R206379</idno>
+            <idno type="PROQUEST">99865540</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865540e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92163)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117784)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 95:E620[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The ranters recantation; and their sermon delivered at a meeting on Tuesday last, in White-Chappel, being the 17 of this instant December. With their resolution, advice, and proposals; the manner of the vanishing away of one of their false gods in a flame of fire; a more further discovery of their dangerous opinions, lives, and actions; their blasphemous decree, and detestable commandements. Likewise, the apprehending of some of them; their tryal, and sentence; their speech and confessions at the place of execution; their strange and blasphemous cries upon the ladder; and the executing two Justices of Peace: recited as a warning-piece to the English nation.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G.H.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCL. [1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Decemb 18 [crossed out] 20th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ranters --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117784:1"/>
+            <p>THE RANTERS RECANTATION; And their SERMON Delivered At a Meeting on Tuesday last, in White-Chappel, being the 17 of this instant <hi>DECEMBER. WITH</hi> Their Resolution, Advice, and Proposals; the manner of the vanishing away of one of their false gods in a flame of fire; a more further discovery of their dangerous opinions, lives, and acti<g ref="char:EOLhyphen"/>ons; their blasphemous Decree, and detestable Commandements.</p>
+            <p>
+               <hi>LIKEWISE,</hi> The apprehending of some of them; their Tryal, and Sentence; their Speech and Confessions at the place of execution; their strange and blasphe<g ref="char:EOLhyphen"/>mous Cries upon the Ladder; and the executing two Justices of Peace: <hi>Recited as a Warning-piece to the English Nation.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>G. H.</hi> MDCL.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117784:2"/>
+            <pb n="1" facs="tcp:117784:2"/>
+            <head>The Ranters Recantation, &amp;c. To the English Nation.</head>
+            <p>
+               <hi>THere is no sight so lovely, and taking to the eyes of all in<g ref="char:EOLhyphen"/>genuous and sincere hearts, as naked</hi> Truth: <hi>Those which know its excellency will study to find it out.</hi> Truth <hi>is a jewel which lies out of sight, men must search for it that will find it out; And therefore, considering that this present Age hath produced sundry Papers, in relation to a discovery of the new Generation called</hi> Ranters; <hi>but finding they have been onely bearing about the Bush, and have not discovered the Bird in its own nature, I shall here present you with a more full and infallible Discovery, of their prodigious pranks, and un<g ref="char:EOLhyphen"/>paralleld deportments, which are as followeth.</hi>
+            </p>
+            <p>ON Tuesday last, being the 17<seg rend="sup">th</seg> of this instant De<g ref="char:EOLhyphen"/>cember, a great company of <hi>Ranters</hi> had a meeting neer the <hi>Horns</hi> in <hi>White-Chappel,</hi> where they began to put in practice several <hi>Christmas</hi> Gambols, and amongst the rest, one Mrs. <hi>Hull,</hi> led them a dance, saying, <hi>She would shew them a new way to be merry:</hi> And calling to one of her fellow creatures to sit on her knee, she bid him take up her coats and smock, which he did: Then, said she, <hi>Now pre<g ref="char:EOLhyphen"/>thee
+<pb n="2" facs="tcp:117784:3"/>kiss me round;</hi> He answer'd, <hi>Dear fister, It is my duty:</hi> After which greeting, he was to set her on her head, to go about the room on her hands, with her coats about her ears, in perform<g ref="char:EOLhyphen"/>ance of which uncivil action, another fellow-creature began to peep, which she perceiving, said, Sir, <hi>You shall pay for your peeping:</hi> and so immediatly, in the presence of about 60 persons, entred into venial exercise. After this, one <hi>Arthingworth,</hi> a notorious <hi>Ranter,</hi> stood up, belching forth these blasphemous and detest<g ref="char:EOLhyphen"/>able words, assuming to this height of impudency, <hi>That he was both King, Priest, and Prophet;</hi> as appears by this infernal Speech, rendred in his own <hi>verbis.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="speech">
+                        <opener>
+                           <salute>Fellow-Creatures,</salute>
+                        </opener>
+                        <p>I Hope there are not any of you here, that do in the least deny, to yield all due obedience and reverence to me your anoint<g ref="char:EOLhyphen"/>ed; but that you will in every respect, and upon all occasions, be willing to obey, and submit unto all such Orders and De<g ref="char:EOLhyphen"/>crees, that I shall both here, and for the time to come, ordain and establish; And therefore, I do will and require you, to subscribe unto these ensuing Commandements, in manner and form as followeth.</p>
+                        <list>
+                           <label>I.</label>
+                           <item>That you shall not acknowledge, nor yield Obedience to any other gods, but me.</item>
+                           <label>II.</label>
+                           <item>That it is lawful to drink, swear, and revel, and to lie with any woman what<g ref="char:EOLhyphen"/>soever.</item>
+                           <label>III.</label>
+                           <item>That there is no Sabbath, no Heaven, no Hell, no Resurrection, and that both Soul and Body dies together.</item>
+                        </list>
+                        <pb n="3" facs="tcp:117784:3"/>
+                        <p>Thus do these beasts of <hi>Ephesus</hi> too frequently belch forth great imprecations &amp; curses against the omnipotent Jehovah of Heaven, not fit to be named amongst Christians. But these are but the Gnosticks of former Ages; these are the same with those of old, whose description <hi>Epiphanius</hi> gives us, who hold onely certain Dictates and Positions, peremptorily affirming, <hi>That let them live as they please, they were sure to be saved, &amp;c.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>No sooner had the aforesaid <hi>Arthingworth</hi> ended his Diaboli<g ref="char:EOLhyphen"/>cal speech, but one M<seg rend="sup">r</seg>
+               <hi>Gilbert,</hi> stood up, desiring free liberty to declare himself, by reason that he was exceedingly perplexed at M<seg rend="sup">r</seg>
+               <hi>Arthingworths</hi> speech, and in order thereunto, it was general<g ref="char:EOLhyphen"/>ly assented to by the rest of his fellow-creatures: whereupon he began as followeth, insisting upon this ensuing Text of Scrip<g ref="char:EOLhyphen"/>ture.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="speech">
+                        <epigraph>
+                           <q>
+                              <bibl>1 Thess. Chap. 1. Ver. 3.</bibl>
+                              <p>Remember your effectual Faith.</p>
+                           </q>
+                        </epigraph>
+                        <opener>
+                           <salute>Dear Friends,</salute>
+                        </opener>
+                        <p>
+                           <hi>IT hath pleased Almighty God, even in a moment of time, since our meeting here together, to change the inward man, and to recall me from those wicked and abominable wayes, that I have lately walked with you in; insomuch, that I now desire to lay hold on Christ and his Word, and to joyn no longer with you in the ways of sin, by denying my Creator to be the true God, and refusing to walk in the way of holinesse; and, dear friends, I can assure you, that all your wayes and actions are of your father the Devil; and that like a cunning Fisher-man, he endeavours to hang you with a hook baited with sensual objects; and having once gotten his book in yoar jawes, he doth not, like some unskilful Angler, presently strike to the hazard of line, hook, rod, and fish; but rather draggeth you up and down in the sea of your sensual contentment, till at last he hath drowned you in your own element, to the burying of your peace and felicity for per<g ref="char:EOLhyphen"/>petuity. But, dear friends, I humbly implore you, in the name of Jesus Christ, to walk no longer in the waye of darkness, but to become children of light, and to take</hi> Fragan <hi>the Emperours resolution, That after</hi> 20 <hi>years spent in a most sinful way, he unfeignedly repented, watering his Couch</hi> 18 <hi>days, and</hi> 18 <hi>nights mith tears; and then desired a conference with religious</hi> M<seg rend="sup">r</seg> Plutark, <hi>to be reproved of his sins; and withal, That if he seemed angry, he would not have him to think that it was at him for his reproof, but at himself, for committing such sins. The like I desire from you.</hi>
+                        </p>
+                        <pb n="4" facs="tcp:117784:4"/>
+                        <p>
+                           <hi>And therefore, dear friends,</hi> I earnestly intreat you to put on the Armour of <hi>Fragan,</hi> and <hi>Plutark,</hi> for the withstanding of Sin and Satan; and in so doing, you need not doubt of a glorious victo<g ref="char:EOLhyphen"/>ry over him, for the purchasing of everlasting Salvation; to evi<g ref="char:EOLhyphen"/>dence it more plainly, I shall give you these ensuing Considera<g ref="char:EOLhyphen"/>tions.</p>
+                        <p n="1">1 <hi>That God is merciful, and that upon serious repentance, he will blot out all your iniquities, therefore you have nothing to do, but to take him.</hi>
+                        </p>
+                        <p n="2">2 <hi>Remember, that Christ is made righteousness to us.</hi>
+                        </p>
+                        <p n="3">3 <hi>Remember, that the pardon is great; look to the promises of the Go<g ref="char:EOLhyphen"/>spel, you shal find them without exception. To us a Saviour is born, to take away the sins of the people; he came to take away sins of all sorts. Now, when God hath made no exception, why should we make any?</hi>
+                        </p>
+                        <p n="4">4 <hi>C nsider, that we have to do with a God, who delights to shew mer<g ref="char:EOLhyphen"/>cy, it i. a thing that he is not weary of, it is natural to him: And there<g ref="char:EOLhyphen"/>fore, as the Eye is not weary of seeing, nor the Ear of hearing, because it is natural to them, no more is God weary of shewing mercy: Nay, he de<g ref="char:EOLhyphen"/>lights in it,</hi> Mic. 7.8. Who is a God like unto thee, taking away iniquities, delighting to shew mercy, <hi>&amp;c. Why so?</hi> Because mer<g ref="char:EOLhyphen"/>cy pleaseth him. <hi>That is, there is no work so much pleaseth him, as in shewing mercy.</hi>
+                        </p>
+                        <p n="5">5 <hi>Consider, dear friends, all you that are in such a case; consider, I say, that Gods mercy is as large as any other attribute. We must not squdre Gods mercy according to our own thoughts; Neither should we measure his mercy according to our own apprehension. Many of you are of an Opinion, I am confident, that if a man commit one sin, it might be for<g ref="char:EOLhyphen"/>given; but when his sins exceed, when they are grown out of measure sinful, when they are sins so circumstantiated, as we say, that they are then out of measure sinful; here a man stands at a stay: What is the rerson of this? Because we draw a scantling of Gods mercy, according to our own conceits. Whereas, if we would but consider, that his mercy were as large as any other attribute, then we would consider that it hath no li<g ref="char:EOLhyphen"/>mits; and if it have no limits, then whatsoemer thy sins are, it is all one. Dost thou think that Christ came from heaven, and took flesh, and suffer<g ref="char:EOLhyphen"/>ed death, to forgive small sins? No, it was to forgive the greatest sins. These, and such like reasons, I beseech you, labour to bring to heart, and indeavour to live perfectly and throughly; cast off that wicked man of sin,</hi> (pointing to Arthingworth) <hi>be no longer seduced by him, but lay hold on Christ, the true and onely Saviour and Redeemer, embrace the
+<pb n="5" facs="tcp:117784:4"/>substance, and eatch no longer at a mere shadow. Now the Lord Jesus give you understanding in these things, that so you may die to sin, and live to righteousness.</hi>
+                        </p>
+                        <p>AMEN.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>M<seg rend="sup">r</seg>
+               <hi>Gilbert</hi> having thus emphatically expressed himself, it pleas<g ref="char:EOLhyphen"/>ed Almighty God to give a great blessing to his labours, inso<g ref="char:EOLhyphen"/>much that 59 persons were then converted, who resolved to se<g ref="char:EOLhyphen"/>cure the said <hi>Arthingworth;</hi> but this cunning Gnostick perceiv<g ref="char:EOLhyphen"/>ing their sudden change, with a fair pretence, went to the cham<g ref="char:EOLhyphen"/>ber door, and called for a Turks head; in plain English, <hi>a pisse<g ref="char:EOLhyphen"/>pot,</hi> and in an instant, upon a great flash of fire, vanished, and ne<g ref="char:EOLhyphen"/>ver was seen more, to the great admiration of the Spectators.</p>
+            <p>This great judgment, or signal from heaven, hath astonished divers, in somuch that their ways begin to be odious and detest<g ref="char:EOLhyphen"/>able to those that once delighted in them: yet many there are that still persist in these wicked wayes, both in city and coun<g ref="char:EOLhyphen"/>try; and one <hi>W. Smith,</hi> amongst the rest, were lately apprehend<g ref="char:EOLhyphen"/>ed at <hi>York,</hi> for denying the Deity, <hi>Arian</hi>-like, and putting in ex<g ref="char:EOLhyphen"/>ecution several illegal practises against the Parliament; for which, upon a fair tryal, he received sentence to be hanged; and being brought to the place of execution, he uttered many blas<g ref="char:EOLhyphen"/>phous words upon the ladder, saying, <hi>Deliver me, O God, from the hands of these wicked persecutors, or else I'le rent the Heavens, and pull thee out of thy Throne;</hi> and so died in a very desperate and sad condition.</p>
+            <p>Another of these mad Gnosticks was lately apprehended at <hi>Coventry,</hi> for proclaiming <hi>Charles Stuart</hi> King, &amp;c. he held an opi<g ref="char:EOLhyphen"/>nion, <hi>that sin mas no sin, and therefore no treason to proclaim him King;</hi> but upon examination, he received sentence to be hang'd, and being brought to the place of execution, confessed, <hi>That it was neither out of love, or loyalty, to his person, or dignity, but merely out of envie to the Parliament, for setting forth an Act, prohibiting their wayes to be unjust, &amp;c.</hi> and so died Reprobate-like.</p>
+            <pb n="6" facs="tcp:117784:5"/>
+            <p>Many presidents I could instance touching the legality of the Law in punishing Offenders; but amongst the rest, be pleased to take this Observation, That Sir <hi>Richard Empson,</hi> and M. <hi>Edmond Dudley,</hi> Justices of the Peace, were both hang'd in <hi>H.</hi> 8. dayes, for puting in execution several illegal practises, grounded upon an unjust law; which as honourable S<seg rend="sup">t</seg>
+               <hi>Edward Cook</hi> saith, <hi>was made against, and in the face of the fundamental Law of the great Charter,</hi> &amp;c. And just it was they should be thus dealt withall, because it is honourable, beneficial, and profitable for the Commonwealth, that guilty persons should be punished, lest by omission of the punishment of one, many men by that ill example, may be in<g ref="char:EOLhyphen"/>couraged to commit more heinous offences. And excellent to this purpose is that saying of the Parliament, which I desire they may never forget, Book Declar. pag. 39. which is, <hi>That they are very sensible, that it equally imports them, as well to see justice done a<g ref="char:EOLhyphen"/>gainst them that are eriminious, as to defend the just rightt and liberties of the people.</hi>
+            </p>
+            <p>Many of Ranting <hi>Everard's</hi> party are lunatick, and exceed<g ref="char:EOLhyphen"/>ingly distracted; they talk very high against the Parliament, and this present Government; for which some of them have re<g ref="char:EOLhyphen"/>ceived the last in Bridewel.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Published by Authority.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
